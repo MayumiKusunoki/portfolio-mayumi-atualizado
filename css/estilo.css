@@ -127,7 +127,7 @@ nav a:hover {
             rgba(44, 30, 67, 0.4) 75%,
             rgba(44, 30, 67, 0.1) 90%,
             rgba(44, 30, 67, 0) 100%),
-        url("/imagens/home.jpg");
+        url("imagens/home.jpg");
 
     background-repeat: no-repeat;
     background-position: center;
